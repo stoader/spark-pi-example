@@ -4,7 +4,9 @@ pipeline:
     cluster_name: "seba-cicd-1"
     cluster_provider: "google"
     google_project: "meetupprj"
+    google_gke_version: "1.9"
     google_node_count: "2"
+    log_level: "debug"
 
     secrets: [plugin_endpoint, plugin_token]
 
