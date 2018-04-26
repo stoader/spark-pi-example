@@ -1,4 +1,4 @@
-# Spark Pi Example
+# Spark Pi Example -01
 
 Spark Pi is a sample project to trigger a short lived Spark CI/CD workflow on Banzai Cloud's [Pipeline](https://github.com/banzaicloud/pipeline) PaaS platform.
 
